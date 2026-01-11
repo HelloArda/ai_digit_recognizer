@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+.DS_Store
+
+# Ignore compiled python files
+__pycache__/
+
+# (Optional) You can ignore the model if it's huge, 
+# but for this portfolio, keep it so the app works instantly!
+# *.pkl
